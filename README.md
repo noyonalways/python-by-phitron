@@ -1,5 +1,7 @@
-# Reserved keywords in Python
+![Cover Image](assets/cover.jpg)
 
+
+## Reserved keywords in Python
 |    1   	|    2   	|     3    	|     4    	|    5    	|
 |:------:	|:------:	|:--------:	|:--------:	|:-------:	|
 |  True  	|  False 	|   None   	|   class  	| finally 	|
