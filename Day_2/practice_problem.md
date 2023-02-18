@@ -1,7 +1,7 @@
 # Practice Problems From Day 1 and Day 2
 
 ### Problem 1 :
-Take values f length n breadth fa rectangle from user and check if iti square
+Take values of length and breadth of a rectangle from user and check if it is square or
 not.
 
 ### Problem 2 :
