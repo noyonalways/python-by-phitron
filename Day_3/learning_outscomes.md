@@ -1,6 +1,18 @@
-# Slove the problems from Day-1 and Day-2
+## Slove the problems from Day-1 and Day-2
 
-## Problem 1 Square check:
+
+| Solutions                                     |
+|-----------------------------------------------|
+| 3.1 [Solution to Practice Problem 1](./8.py)  |
+| 3.2 [Solution to Practice Problem 2](./9.py)  |
+| 3.3 [Solution to Practice Problem 3](./10.py) |
+| 3.4 [Solution to Practice Problem 4](./11.py) |
+| 3.5 [Solution to Practice Problem 5](./12.py) |
+
+
+
+
+### Problem 1 Square check:
 
     length = int(input('input length: '))
     breadth = int(input('input breadth: '))
@@ -9,7 +21,7 @@
     else:
         print('it is not square')
 
-## Problem 2: Find larg number:
+### Problem 2: Find larg number:
 
     a = int(input('input a : '))
     b = int(input('input b : '))
@@ -21,7 +33,7 @@
     elif c >= a and c >= b:
         print(c, 'c is a large number rather than others')
 
-## Problem 3: Check even or odd number:
+### Problem 3: Check even or odd number:
 
     number = int (input('input number for check even or odd: '))
     if number % 2 == 0:
@@ -29,7 +41,7 @@
     else:
         print(number, ': it is odd number')
 
-## Problem 4: Write a Program to take integer input from user and display the grade according to the following criteria:
+### Problem 4: Write a Program to take integer input from user and display the grade according to the following criteria:
 
     studentMarks = int(input())
     if studentMarks > 90:
@@ -41,7 +53,7 @@
     elif studentMarks < 60 :
         print(studentMarks, ": Grade d")
 
-## Problem 5: Check leap year:
+### Problem 5: Check leap year:
 
     inputYear = int(input('input year: '))
     if inputYear % 100 == 0 and inputYear % 400 == 0:
