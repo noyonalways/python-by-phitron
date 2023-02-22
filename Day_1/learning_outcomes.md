@@ -2,7 +2,7 @@
 
 | Learning Outcomes:                           	|
 |----------------------------------------------	|
-| 1.1. Introduction to Python                  	|
+| 1.1 Introduction to Python                  	|
 | 1.2 Environment setup for Python             	|
 | 1.3 Write your first python code             	|
 | 1.4 Introduction to variable - (theory part) 	|

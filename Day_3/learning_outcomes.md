@@ -1,5 +1,6 @@
-## Slove the problems from Day-1 and Day-2
+# Day - 03
 
+## Slove the problems from Day-1 and Day-2
 
 | Solutions                                     |
 |-----------------------------------------------|
@@ -8,7 +9,6 @@
 | 3.3 [Solution to Practice Problem 3](./10.py) |
 | 3.4 [Solution to Practice Problem 4](./11.py) |
 | 3.5 [Solution to Practice Problem 5](./12.py) |
-
 
 
 

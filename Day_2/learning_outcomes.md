@@ -1,3 +1,5 @@
+# Day - 02
+
 | Learning Outcomes                                	|
 |--------------------------------------------------	|
 | 2.1. Comments and Basic operators in Python      	|
