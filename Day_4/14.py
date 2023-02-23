@@ -1,3 +1,5 @@
+# For loop
+
 #  method 1:
 for i in range(101):
     print("Nasa is hacking", i, "%")
