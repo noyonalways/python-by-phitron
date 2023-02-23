@@ -9,6 +9,7 @@
 | 3. [Day - 03 ](./Day_3/learning_outcomes.md#day---03)    |  
 | 4. [Day - 04 ](./Day_4/learning_outcomes.md#day---04)    |   
 | 5. [Day - 05 ](./Day_5/learning_outcomes.md#day---05)    |
+| 6. [Day - 06 ](./Day-6/learning_outcomes.md#day---06)    |
  
 
 ## Reserved keywords in Python
