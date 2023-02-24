@@ -2,8 +2,6 @@
 
 
 
-<div style="display: flex; justify-content:space-around;">
-
 | Python Programming                                       |   
 |----------------------------------------------------------| 
 | 1. [Day - 01 ](./Day_1/learning_outcomes.md#day---01)    | 
@@ -13,8 +11,6 @@
 | 5. [Day - 05 ](./Day_5/learning_outcomes.md#day---05)    |
 | 6. [Day - 06 ](./Day-6/learning_outcomes.md#day---06)    |
  
-
-<div>
 
 ## Reserved keywords in Python
 
@@ -26,7 +22,3 @@
 |   not  	|   with   	|   as  	|  elif  	|    if   	|   or   	|
 |  yield 	|  assert  	|  else 	| import 	|   pass  	|  break 	|
 | except 	|    in    	| raise 	|        	|         	|        	|
-
-</div>
-
-</div>
