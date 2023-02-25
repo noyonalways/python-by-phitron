@@ -1,4 +1,4 @@
-![Cover Image](assets/cover.jpg)
+[![Cover Image](assets/cover.jpg)](https://noyonalways.github.io/python-by-phitron/)
 
 
 

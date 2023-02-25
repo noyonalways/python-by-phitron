@@ -10,7 +10,7 @@
 | 6.6 [Integer number reverse](#problem-6)                                              |
 
 
-
+---
 
 
 
@@ -21,7 +21,7 @@
     for i in range(1, 11):
         print(number, " X ", i, " = ", number * i)
 
-
+---
 
 ## Problem - 2
 ### Python program to find the factorial of a given number
@@ -32,6 +32,7 @@
         factorial = factorial * i
     print(factorial)
 
+---
 
 ## Problem - 3
 ### Fibonacci series
@@ -46,6 +47,7 @@
         a = b
         b = result
 
+---
 
 ## Problem - 4
 ### Count the number of digit count in a number
@@ -65,6 +67,7 @@
     print(len(a))
 
 
+---
 
 ## Problem - 5
 ### Python Program to check Armstrong Number
@@ -99,6 +102,7 @@
     else:
         print(a, "is a Not Armstrong Numbe!")
 
+---
 
 ## Problem 6
 ### Integer number reverse
