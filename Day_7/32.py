@@ -12,7 +12,7 @@ a = [12, 20, 34, "Phitron"]
 # # print(a[-20]) --> Height - 4 is possible
 # print(len(a))
 
-# a[-3] = 500 # Changed in Memory
+# a[-3] = 500 # Changed in Memory that meanes mutable
 # print(a)
 
 # if 500 in a:

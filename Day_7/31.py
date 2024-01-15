@@ -12,3 +12,13 @@ print(a[4])
 
 a[4] = "Piyaj"
 print(a)
+
+
+'''
+All about list:
+1. List is a data structure
+2. List can contain different type of data
+3. List is a ordered data structure
+4. Every list item has it own index/roll
+5. List is a mutable data structure
+'''
