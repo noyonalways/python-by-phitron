@@ -4,6 +4,7 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
    <title>Python Programming</title>
    <script src="https://cdn.tailwindcss.com"></script>
    <script>
@@ -11,6 +12,13 @@
          theme: {
             container: {
                center: true,
+               screens: {
+                  sm: "640px",
+                  md: "768px",
+                  lg: "1024px",
+                  xl: "1100px",
+                  "2xl": "1180px",
+               },
                padding: {
                   DEFAULT: '.5rem',
                   'xl': "5rem"
@@ -31,20 +39,82 @@
 </head>
 
 <body>
-   <header class="bg-cyan-blue text-white py-2">
+   <header class="bg-cyan-blue text-white py-2 sticky top-0">
       <nav class="container flex justify-between items-center">
-         <a class="font-bold text-2xl" href="#">Logo</a>
-         <ul class="inline-flex items-center space-x-3">
+         <a class="font-bold inline-flex items-center space-x-2" href="#">
+            <img class="w-10" src="./assets/logo.png" alt="logo">
+            <span>Python Programming</span>
+         </a>
+         <ul class="inline-flex items-center">
             <li>
-               <a class="hover:underline font-medium" href="#">Home</a>
+               <a class="" href="https://github.com/noyonalways/python-by-phitron" target="_blank">
+                  <img class="w-8 rounded-full"
+                     src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github-logo">
+               </a>
             </li>
-            <li>
-               <a class="hover:underline font-medium" href="#">About</a>
-            </li>
+
          </ul>
       </nav>
    </header>
-   <main>
+   <main class="">
+      <section class="">
+         <div
+            class="container flex flex-col items-center justify-between space-y-5 my-16 lg:my-32 lg:space-y-0 lg:flex-row">
+            <div class="lg:max-w-md space-y-4">
+               <h1 class="text-3xl lg:text-4xl font-bold">
+                  Welcome to the Python Programming course!
+               </h1>
+               <p>
+                  This repository is designed to guide you through the fundamentals of Python with a series of daily
+                  lessons.
+               </p>
+            </div>
+            <div class="lg:max-w-xl">
+               <img
+                  src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1380&t=st=1705328306~exp=1705328906~hmac=8def7ede2ad5e497608a9687b9d233c9333a1388304d25b537ae5d1f6b5e6aa1"
+                  alt="banner-image">
+            </div>
+         </div>
+      </section>
+      <section class="py-10">
+         <div class="container flex flex-col space-y-5 lg:space-y-0 lg:flex-row lg:justify-between">
+            <div>
+               <h1 class="text-2xl font-bold mb-3">Table of Contents</h1>
+               <ul class="space-y-1">
+                  <li>
+                     <a class="bg-slate-200 w-full block p-1" href="./Day_1/learning_outcomes.md">Day 1</a>
+                  </li>
+                  <li>
+                     <a class="bg-slate-200 w-full block p-1" href="./Day_2/learning_outcomes.md">Day 2</a>
+                  </li>
+                  <li>
+                     <a class="bg-slate-200 w-full block p-1" href="./Day_3/learning_outcomes.md">Day 3</a>
+                  </li>
+                  <li>
+                     <a class="bg-slate-200 w-full block p-1" href="./Day_4/learning_outcomes.md">Day 4</a>
+                  </li>
+                  <li>
+                     <a class="bg-slate-200 w-full block p-1" href="./Day_5/learning_outcomes.md">Day 5</a>
+                  </li>
+                  <li>
+                     <a class="bg-slate-200 w-full block p-1" href="./Day_6/learning_outcomes.md">Day 6</a>
+                  </li>
+                  <li>
+                     <a class="bg-slate-200 w-full block p-1" href="./Day_7/learning_outcomes.md">Day 7</a>
+                  </li>
+               </ul>
+            </div>
+            <div>
+               <h1 class="text-2xl font-bold mb-3">Notes:</h1>
+               <ul class="space-y-1">
+                  <li>
+                     <a class="bg-slate-200 w-full block p-1" href="./revserved_keywords/README.md">Python Reserved
+                        Keyword</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </section>
 
    </main>
    <footer>
