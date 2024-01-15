@@ -1,6 +1,6 @@
 # Python Programming Course
 
-Welcome to the Python Programming course! This repository is designed to guide you through the fundamentals of Python with a series of daily lessons.
+> Welcome to the Python Programming course! This repository is designed to guide you through the fundamentals of Python with a series of daily lessons.
 
 <img style='border-radius: 5px' src='./assets/cover.jpg' alt="banner-image">
 
@@ -17,13 +17,13 @@ Welcome to the Python Programming course! This repository is designed to guide y
 
 ## How to Use
 
-- Simply click on the day you're interested in to access the learning outcomes.
+> Simply click on the day you're interested in to access the learning outcomes.
 
 ## Contributions
 
 Feel free to contribute by opening issues or submitting pull requests.
 
-### Happy coding! </img>
+### Happy coding! </>
 
 ---
 
