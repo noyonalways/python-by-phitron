@@ -1,6 +1,6 @@
 # Python Programming Course
 
-Welcome to the Python Programming course! This repository contains a series of daily lessons to help you learn Python step by step.
+Welcome to the Python Programming course! This repository is designed to guide you through the fundamentals of Python with a series of daily lessons.
 
 [![Course Cover](assets/cover.jpg)](https://noyonalways.github.io/python-by-phitron/)
 
@@ -24,3 +24,7 @@ Welcome to the Python Programming course! This repository contains a series of d
 Feel free to contribute by opening issues or submitting pull requests.
 
 ### Happy coding! </>
+
+---
+
+Enjoy your Python learning journey! If you have any questions or need assistance, don't hesitate to reach out. Happy coding! 😊🐍
