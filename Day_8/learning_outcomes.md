@@ -1,5 +1,7 @@
 # Welcome to Day - 8
 
+<img style="border-radius: 5px" src="https://training-blog-uploads.internshala.com/blog/wp-content/uploads/2023/06/python-list-comprehension-2048x854.jpg.webp" alt="illustration-image" />
+
 | List comprehension in Python                                                                      |
 | ------------------------------------------------------------------------------------------------- |
 | 8.1 [Introduction to list comprehension in Python](#introduction-to-list-comprehension-in-python) |
