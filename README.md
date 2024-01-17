@@ -4,16 +4,6 @@ Welcome to the Python Programming course! This repository is designed to guide y
 
 <img style='border-radius: 5px' src='https://img-c.udemycdn.com/course/750x422/5576876_4c9e.jpg' alt="banner-image" width='100%' />
 
-<div align='right'>
-
-| Other Resources                                     |
-| --------------------------------------------------- |
-| [Reserved Keywords](./revserved_keywords/README.md) |
-
- </div>
-
-<div align="left">
-
 | Table of Contents                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Day - 01: Intorduction to Python and Environment setup](./Day_1/learning_outcomes.md#day---01)                                     |
@@ -25,7 +15,11 @@ Welcome to the Python Programming course! This repository is designed to guide y
 | [Day - 07: Introduction to list in Python](./Day_7/learning_outcomes.md#day---07)                                                   |
 | [Day - 08: List Comprehension in Python](./Day_8/learning_outcomes.md#welcome-to-day---8)                                           |
 
-</div>
+| Other Resources                                       |
+| ----------------------------------------------------- |
+| [Reserved Keywords](./revserved_keywords/README.md)   |
+| [Operators](./Day_2/operators.md)                     |
+| [Day 2 Practice Problem](./Day_2/practice_problem.md) |
 
 ## How to Use
 
@@ -40,3 +34,11 @@ Feel free to contribute by opening issues or submitting pull requests.
 ---
 
 Enjoy your Python learning journey! If you have any questions or need assistance, don't hesitate to reach out. Happy coding! 😊🐍
+
+## Connect with me
+
+[![Facebook Badge](https://img.shields.io/badge/-noyonalways-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white)](https://facebook.com/noyonalways)
+[![Instagram Badge](https://img.shields.io/badge/-noyonalways-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white)](https://instagram.com/noyonalways)
+[![Linkedin Badge](https://img.shields.io/badge/-noyonalways-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noyonalways)
+[![Email Badge](https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:noyonalways+github@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-deskofnoyon-c14438?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@deskofnoyon)
