@@ -5,8 +5,9 @@
 | List comprehension in Python                                                                      |
 | ------------------------------------------------------------------------------------------------- |
 | 8.1 [Introduction to list comprehension in Python](#introduction-to-list-comprehension-in-python) |
-| 8.2 [List Comprehension: part - 1](#list-comprehension-part---1)                                  |
+| 8.2 [List comprehension: part - 1](#list-comprehension-part---1)                                  |
 | 8.3 [List comprehension: part - 2](#list-comprehension-part---2)                                  |
+| 8.4 [Nested list comprehesion](#list-comprehension-part---2)                                      |
 
 ## Introduction to list comprehension in Python
 
@@ -89,4 +90,29 @@ for i in range(21):
 print(empty_list)
 empty_list_2 = [f"{i}=even" if i % 2 == 0 else f"{i}=odd" for i in range(21)] # shortcut way
 print(empty_list_2)
+```
+
+## Nested list comprehesion
+
+```python
+# 2D List comprehension
+matrix = [
+   [1, 2],
+   [3, 4],
+   [5, 6],
+   [7, 8]
+]
+
+# transpose matrix e conversion
+empty_list = []
+for row in range(2): # outer loop
+   b = []
+   for col in matrix: # inner loop
+      b.append(col[row])
+   empty_list.append(b)
+print(empty_list)
+
+# shortcut way by comprehension
+result = [[col[row] for col in matrix] for row in range(2)]
+print(result)
 ```

@@ -2,7 +2,7 @@
 
 > Welcome to the Python Programming course! This repository is designed to guide you through the fundamentals of Python with a series of daily lessons.
 
-<img style='border-radius: 5px' src='./assets/cover.jpg' alt="banner-image">
+<img style='border-radius: 5px' src='https://img-c.udemycdn.com/course/750x422/5576876_4c9e.jpg' alt="banner-image" width='100%'>
 
 | Table of Contents                                           |
 | ----------------------------------------------------------- |
