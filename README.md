@@ -4,16 +4,17 @@
 
 <img style='border-radius: 5px' src='./assets/cover.jpg' alt="banner-image">
 
-| Table of Contents                                   |
-| --------------------------------------------------- |
-| [Reserved Keywords](./revserved_keywords/README.md) |
-| [Day - 01](./Day_1/learning_outcomes.md#day---01)   |
-| [Day - 02](./Day_2/learning_outcomes.md#day---02)   |
-| [Day - 03](./Day_3/learning_outcomes.md#day---03)   |
-| [Day - 04](./Day_4/learning_outcomes.md#day---04)   |
-| [Day - 05](./Day_5/learning_outcomes.md#day---05)   |
-| [Day - 06](./Day_6/learning_outcomes.md#day---06)   |
-| [Day - 07](./Day_7/learning_outcomes.md#day---07)   |
+| Table of Contents                                           |
+| ----------------------------------------------------------- |
+| [Reserved Keywords](./revserved_keywords/README.md)         |
+| [Day - 01](./Day_1/learning_outcomes.md#day---01)           |
+| [Day - 02](./Day_2/learning_outcomes.md#day---02)           |
+| [Day - 03](./Day_3/learning_outcomes.md#day---03)           |
+| [Day - 04](./Day_4/learning_outcomes.md#day---04)           |
+| [Day - 05](./Day_5/learning_outcomes.md#day---05)           |
+| [Day - 06](./Day_6/learning_outcomes.md#day---06)           |
+| [Day - 07](./Day_7/learning_outcomes.md#day---07)           |
+| [Day - 08](./Day_8/learning_outcomes.md#welcome-to-day---8) |
 
 ## How to Use
 
