@@ -4,16 +4,17 @@ Welcome to the Python Programming course! This repository is designed to guide y
 
 <img style='border-radius: 5px' src='https://img-c.udemycdn.com/course/750x422/5576876_4c9e.jpg' alt="banner-image" width='100%' />
 
-| Table of Contents                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Day - 01: Intorduction to Python and Environment setup](./Day_1/learning_outcomes.md#day---01)                                     |
-| [Day - 02: Learn Python basic operator, logical operator, conditions, if-else, type casting](./Day_2/learning_outcomes.md#day---02) |
-| [Day - 03: Solve the problems from day-1 and day-2](./Day_3/learning_outcomes.md#day---03)                                          |
-| [Day - 04: Introduction to loops in Python](./Day_4/learning_outcomes.md#day---04)                                                  |
-| [Day - 05: Nested loops in Python](./Day_5/learning_outcomes.md#day---05)                                                           |
-| [Day - 06: Simple problem solving](./Day_6/learning_outcomes.md#day---06)                                                           |
-| [Day - 07: Introduction to list in Python](./Day_7/learning_outcomes.md#day---07)                                                   |
-| [Day - 08: List Comprehension in Python](./Day_8/learning_outcomes.md#welcome-to-day---8)                                           |
+| Table of Contents                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Day - 01: Intorduction to Python and Environment setup](./Day_1/learning_outcomes.md#day---01)                                            |
+| [Day - 02: Learn Python basic operator, logical operator, conditions, if-else, type casting](./Day_2/learning_outcomes.md#day---02)        |
+| [Day - 03: Solve the problems from day-1 and day-2](./Day_3/learning_outcomes.md#day---03)                                                 |
+| [Day - 04: Introduction to loops in Python](./Day_4/learning_outcomes.md#day---04)                                                         |
+| [Day - 05: Nested loops in Python](./Day_5/learning_outcomes.md#day---05)                                                                  |
+| [Day - 06: Simple problem solving](./Day_6/learning_outcomes.md#day---06)                                                                  |
+| [Day - 07: Introduction to list in Python](./Day_7/learning_outcomes.md#day---07)                                                          |
+| [Day - 08: List Comprehension in Python](./Day_8/learning_outcomes.md#welcome-to-day---8)                                                  |
+| [Day - 09: Swap, Count unique elements, extract elements, crete nested list using list comprehesion](./Day_9/learning_outcomes.md#day---9) |
 
 | Other Resources                                       |
 | ----------------------------------------------------- |
