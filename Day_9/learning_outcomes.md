@@ -1,6 +1,6 @@
 # Day - 9
 
-<img style="border-radius: 5px" src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/RoGkayKbiUPPDfVJa56gTwmy" alt="illustration-image" />
+<img width="100%" style="border-radius: 5px" src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/RoGkayKbiUPPDfVJa56gTwmy" alt="illustration-image" />
 
 | List comprehension in Python                                                          |
 | ------------------------------------------------------------------------------------- |
