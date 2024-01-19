@@ -1,4 +1,5 @@
-# Problem 3: Given a list, extract all elements whose frequency is greter than K. num_list = [4, 6, 4, 3, 3, 4, 3, 4, 3, 8] K = 3
+# Problem 3: Given a list, extract all elements whose frequency is greter than K. 
+#num_list = [4, 6, 4, 3, 3, 4, 3, 4, 3, 8] K = 3
 
 num_list = [4, 6, 4, 3, 3, 4, 3, 4, 3, 8]
 K = 3
