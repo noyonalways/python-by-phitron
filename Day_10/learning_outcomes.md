@@ -1,4 +1,4 @@
-# Day - 9
+# Day - 10
 
 <img width="100%" style="border-radius: 5px; background: #fff" src="https://i1.faceprep.in/feed/images/strings-in-python-poster.webp" alt="illustration-image" />
 

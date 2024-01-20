@@ -1,5 +1,10 @@
 # Python Programming Course
 
+![GitHub repo size](https://img.shields.io/github/repo-size/noyonalways/python-by-phitron)
+![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/noyonalways/python-by-phitron)
+![GitHub forks](https://img.shields.io/github/forks/noyonalways/python-by-phitron)
+![GitHub followers](https://img.shields.io/github/followers/noyonalways)
+
 Welcome to the Python Programming course! This repository is designed to guide you through the fundamentals of Python with a series of daily lessons.
 
 <img style='border-radius: 5px' src='https://img-c.udemycdn.com/course/750x422/5576876_4c9e.jpg' alt="banner-image" width='100%' />
@@ -15,6 +20,7 @@ Welcome to the Python Programming course! This repository is designed to guide y
 | [Day - 07: Introduction to list in Python](./Day_7/learning_outcomes.md#day---07)                                                          |
 | [Day - 08: List Comprehension in Python](./Day_8/learning_outcomes.md#welcome-to-day---8)                                                  |
 | [Day - 09: Swap, Count unique elements, extract elements, crete nested list using list comprehesion](./Day_9/learning_outcomes.md#day---9) |
+| [Day - 10: Introduciton to string in Python](./Day_10/learning_outcomes.md#day---10)                                                       |
 
 | Other Resources                                       |
 | ----------------------------------------------------- |
