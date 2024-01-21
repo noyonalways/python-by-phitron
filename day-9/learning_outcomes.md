@@ -1,4 +1,4 @@
-# Day - 9
+# Day - 9: Swap, Count unique elements, extract elements, crete nested list using list comprehesion
 
 <img width="100%" style="border-radius: 5px" src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/RoGkayKbiUPPDfVJa56gTwmy" alt="illustration-image" />
 

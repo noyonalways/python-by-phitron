@@ -1,4 +1,4 @@
-# Welcome to Day - 8
+# Day - 8: List Comprehension in Python
 
 <img style="border-radius: 5px" src="https://training-blog-uploads.internshala.com/blog/wp-content/uploads/2023/06/python-list-comprehension-2048x854.jpg.webp" alt="illustration-image" />
 

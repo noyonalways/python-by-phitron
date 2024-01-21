@@ -1,9 +1,9 @@
-# # Day - 04
+# # Day - 04: Introduction to loops in Python
 
 # Introduction to Looping
 
-| Loops in Python                                   |
-|---------------------------------------------------|
+| Loops in Python                                     |
+| --------------------------------------------------- |
 | 4.1 [Introduction to loop in Python](./13.py)       |
 | 4.2 [For loop in Python](./14.py)                   |
 | 4.3 [More about range Function](./15.py)            |
@@ -13,14 +13,10 @@
 | 4.7 [continue keyword in Python](./19.py)           |
 | 4.8 [Infinite looping concept](./20.py)             |
 
-
 <br/>
 
-|    Types    	|        Description       	|
-|:-----------:	|:------------------------:	|
-|     for     	| Specific condition apply 	|
-|    while    	|  While true than it works |
-| nested loop 	|    loop inside loop     	|
-
-
-
+|    Types    |       Description        |
+| :---------: | :----------------------: |
+|     for     | Specific condition apply |
+|    while    | While true than it works |
+| nested loop |     loop inside loop     |
