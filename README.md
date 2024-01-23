@@ -1,13 +1,18 @@
-# Python Programming Course
+<h1 align='center'>Python Programming Course</h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/noyonalways/python-by-phitron)
-![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/noyonalways/python-by-phitron)
-![GitHub forks](https://img.shields.io/github/forks/noyonalways/python-by-phitron)
-![GitHub followers](https://img.shields.io/github/followers/noyonalways)
+<img style='border-radius: 10px; margin-bottom: 10px' src='https://i.ibb.co/brvD41q/python-course-banner-tinny.png' alt="banner-image" width='100%' />
 
-Welcome to the Python Programming course! This repository is designed to guide you through the fundamentals of Python with a series of daily lessons.
+<div align='center'>
 
-<img style='border-radius: 5px' src='https://img-c.udemycdn.com/course/750x422/5576876_4c9e.jpg' alt="banner-image" width='100%' />
+<img src="https://img.shields.io/github/repo-size/noyonalways/python-by-phitron" alt='repo-size'>
+<img src='https://img.shields.io/github/directory-file-count/noyonalways/python-by-phitron' alt='repo-files-count'>
+<img src='https://img.shields.io/github/forks/noyonalways/python-by-phitron?style=flat' alt='forks-repo'>
+<img src='https://img.shields.io/github/followers/noyonalways?style=flat' alt='github-followers'>
+
+</div>
+
+<p align='center'> Welcome to the Python Programming course! This repository is your comprehensive guide to mastering Python, featuring daily lessons that cover fundamental concepts. Whether you're a beginner or looking to enhance your skills, join us on this learning journey to explore Python's core principles and unlock the potential of this versatile programming language.
+</p>
 
 | Table of Contents                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,8 +49,34 @@ Enjoy your Python learning journey! If you have any questions or need assistance
 
 ## Connect with me
 
-[![Facebook Badge](https://img.shields.io/badge/-noyonalways-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white)](https://facebook.com/noyonalways)
-[![Instagram Badge](https://img.shields.io/badge/-noyonalways-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white)](https://instagram.com/noyonalways)
-[![Linkedin Badge](https://img.shields.io/badge/-noyonalways-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noyonalways)
-[![Email Badge](https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:noyonalways+github@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/-deskofnoyon-c14438?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@deskofnoyon)
+### Connect with me
+
+<div align="center" style='display: flex; justify-content: center; gap: 0 1px'>
+  <a target="_blank" href="https://facebook.com/noyonalways">
+    <img src="https://img.shields.io/badge/-noyonalways-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white" alt="Facebook Badge">
+  </a>
+
+  <a target="_blank" href="https://instagram.com/noyonalways">
+    <img src="https://img.shields.io/badge/-noyonalways-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+
+  <a target="_blank" href="https://www.linkedin.com/company/noyonalways/">
+    <img src="https://img.shields.io/badge/-noyonalways-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+
+  <a target="_blank" href="mailto:noyonalways+github@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
+  </a>
+
+  <a target="_blank" href="https://www.behance.net/noyonalways">
+    <img src="https://img.shields.io/badge/-noyonalways-gray?style=flat-square&logo=Behance&logoColor=white" alt="YouTube Badge">
+  </a>
+
+  <a target="_blank" href="https://dev.to/noyonalways">
+    <img src="https://img.shields.io/badge/-noyonalways-black?style=flat-square&logo=dev.to&logoColor=white" alt="YouTube Badge">
+  </a>
+
+  <a target="_blank" href="https://youtube.com/@deskofnoyon">
+    <img src="https://img.shields.io/badge/-deskofnoyon-CD201F?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
+  </a>
+</div>
