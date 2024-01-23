@@ -1,8 +1,8 @@
 <h1 align='center'>Python Programming Course</h1>
 
-<img style='border-radius: 10px; margin-bottom: 10px' src='https://i.ibb.co/brvD41q/python-course-banner-tinny.png' alt="banner-image" width='100%' />
+<img style='border-radius: 10px; margin-bottom: 5px' src='https://i.ibb.co/brvD41q/python-course-banner-tinny.png' alt="banner-image" width='100%' />
 
-<div align='center'>
+<div align='center' style='margin-top: 8px; margin-bottom: 8px;'>
 
 <img src="https://img.shields.io/github/repo-size/noyonalways/python-by-phitron" alt='repo-size'>
 <img src='https://img.shields.io/github/directory-file-count/noyonalways/python-by-phitron' alt='repo-files-count'>
