@@ -33,11 +33,11 @@
 | [Operators](./day-2/operators.md)                     |
 | [Day 2 Practice Problem](./day-2/practice_problem.md) |
 
-## How to Use
+### How to Use
 
 Simply click on the day you're interested in to access the learning outcomes.
 
-## Contributions
+### Contributions
 
 Feel free to contribute by opening issues or submitting pull requests.
 
@@ -47,35 +47,27 @@ Feel free to contribute by opening issues or submitting pull requests.
 
 Enjoy your Python learning journey! If you have any questions or need assistance, don't hesitate to reach out. Happy coding! 😊🐍
 
-## Connect with me
-
 ### Connect with me
 
-<div align="center" style='display: flex; justify-content: center; gap: 0 1px'>
+<div align="center">
   <a target="_blank" href="https://facebook.com/noyonalways">
     <img src="https://img.shields.io/badge/-noyonalways-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white" alt="Facebook Badge">
   </a>
-
   <a target="_blank" href="https://instagram.com/noyonalways">
     <img src="https://img.shields.io/badge/-noyonalways-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-
   <a target="_blank" href="https://www.linkedin.com/company/noyonalways/">
     <img src="https://img.shields.io/badge/-noyonalways-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-
   <a target="_blank" href="mailto:noyonalways+github@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
   </a>
-
   <a target="_blank" href="https://www.behance.net/noyonalways">
-    <img src="https://img.shields.io/badge/-noyonalways-gray?style=flat-square&logo=Behance&logoColor=white" alt="YouTube Badge">
+    <img src="https://img.shields.io/badge/-noyonalways-gray?style=flat-square&logo=Behance&logoColor=white" alt="=Behance Badge">
   </a>
-
   <a target="_blank" href="https://dev.to/noyonalways">
-    <img src="https://img.shields.io/badge/-noyonalways-black?style=flat-square&logo=dev.to&logoColor=white" alt="YouTube Badge">
+    <img src="https://img.shields.io/badge/-noyonalways-black?style=flat-square&logo=dev.to&logoColor=white" alt="=Dev.to Badge">
   </a>
-
   <a target="_blank" href="https://youtube.com/@deskofnoyon">
     <img src="https://img.shields.io/badge/-deskofnoyon-CD201F?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
   </a>
