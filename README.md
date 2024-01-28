@@ -27,11 +27,11 @@
 | [Day - 09: Swap, Count unique elements, extract elements, crete nested list using list comprehesion](./day-09/learning_outcomes.md#day---09) |
 | [Day - 10: Introduciton to string in Python](./day-10/learning_outcomes.md#day---10)                                                         |
 
-| Other Resources                                       |
-| ----------------------------------------------------- |
-| [Reserved Keywords](./revserved_keywords/README.md)   |
-| [Operators](./day-2/operators.md)                     |
-| [Day 2 Practice Problem](./day-2/practice_problem.md) |
+| Other Resources                                        |
+| ------------------------------------------------------ |
+| [Reserved Keywords](./revserved-keywords/README.md)    |
+| [Operators](./day-02/operators.md)                     |
+| [Day-2 Practice Problem](./day-02/practice_problem.md) |
 
 ### How to Use
 
