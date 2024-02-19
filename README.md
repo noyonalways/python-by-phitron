@@ -1,14 +1,18 @@
-<h1 align='center'>Python Programming Course</h1>
-
 <img style='border-radius: 10px; margin-bottom: 5px' src='https://i.ibb.co/brvD41q/python-course-banner-tinny.png' alt="banner-image" width='100%' />
 
-<div align='center' style='margin-top: 8px; margin-bottom: 8px;'>
-
-<img src="https://img.shields.io/github/repo-size/noyonalways/python-by-phitron" alt='repo-size'>
-<img src='https://img.shields.io/github/directory-file-count/noyonalways/python-by-phitron' alt='repo-files-count'>
-<img src='https://img.shields.io/github/forks/noyonalways/python-by-phitron?style=flat' alt='forks-repo'>
-<img src='https://img.shields.io/github/followers/noyonalways?style=flat' alt='github-followers'>
-
+<div align="center" style='margin: 5px 0px'>
+  <a href='https://github.com/noyonalways/python-by-phitron/fork'>
+    <img src='https://img.shields.io/badge/-Fork%20Repo-black.svg?style=flat-square&logo=github&color=555&logoColor=white' alt='fork-repo' style='border-radius: 4px'>
+  </a>
+  <a href='https://github.com/noyonalways/python-by-phitron'>
+    <img src='https://img.shields.io/badge/⭐%20Star%20Repo-gray' alt='star-repo'>
+  </a>
+  <img src="https://img.shields.io/github/contributors/noyonalways/python-by-phitron" alt="github-contributors" >
+  <img src="https://img.shields.io/github/stars/noyonalways/python-by-phitron?style=flat" alt="github-repo-stars">
+  <img src='https://img.shields.io/github/forks/noyonalways/python-by-phitron?style=flat' alt='forks-repo'>
+  <img src='https://img.shields.io/github/followers/noyonalways?style=flat' alt='github-followers'>
+  <img src='https://img.shields.io/github/directory-file-count/noyonalways/python-by-phitron' alt='repo-files-count'>
+  <img src="https://img.shields.io/github/repo-size/noyonalways/python-by-phitron" alt='repo-size'>
 </div>
 
 <p align='center'> Welcome to the Python Programming course! This repository is your comprehensive guide to mastering Python, featuring daily lessons that cover fundamental concepts. Whether you're a beginner or looking to enhance your skills, join us on this learning journey to explore Python's core principles and unlock the potential of this versatile programming language.
