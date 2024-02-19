@@ -15,8 +15,7 @@
   <img src="https://img.shields.io/github/repo-size/noyonalways/python-by-phitron" alt='repo-size'>
 </div>
 
-<p align='center'> Welcome to the Python Programming course! This repository is your comprehensive guide to mastering Python, featuring daily lessons that cover fundamental concepts. Whether you're a beginner or looking to enhance your skills, join us on this learning journey to explore Python's core principles and unlock the potential of this versatile programming language.
-</p>
+Welcome to the Python Programming course! This repository is your comprehensive guide to mastering Python, featuring daily lessons that cover fundamental concepts. Whether you're a beginner or looking to enhance your skills, join us on this learning journey to explore Python's core principles and unlock the potential of this versatile programming language.
 
 | Table of Contents                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
