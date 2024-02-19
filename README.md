@@ -20,7 +20,7 @@
 
 | Table of Contents                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Day - 01: Intorduction to Python and Environment setup](./day-01/learning_outcomes.md#day---01)                                             |
+| [Day - 01: Introduction to Python and Environment setup](./day-01/learning_outcomes.md#day---01)                                             |
 | [Day - 02: Learn Python basic operator, logical operator, conditions, if-else, type casting](./day-02/learning_outcomes.md#day---02)         |
 | [Day - 03: Solve the problems from day-1 and day-2](./day-03/learning_outcomes.md#day---03)                                                  |
 | [Day - 04: Introduction to loops in Python](./day-04/learning_outcomes.md#day---04)                                                          |
@@ -29,13 +29,14 @@
 | [Day - 07: Introduction to list in Python](./day-07/learning_outcomes.md#day---07)                                                           |
 | [Day - 08: List Comprehension in Python](./day-08/learning_outcomes.md#welcome-to-day---8)                                                   |
 | [Day - 09: Swap, Count unique elements, extract elements, crete nested list using list comprehesion](./day-09/learning_outcomes.md#day---09) |
-| [Day - 10: Introduciton to string in Python](./day-10/learning_outcomes.md#day---10)                                                         |
+| [Day - 10: Introduction to string in Python](./day-10/learning_outcomes.md#day---10)                                                         |
+| [Day - 11: More about string in Python](./day-11/learning_outcomes.md#day---10)                                                              |
 
-| Other Resources                                        |
-| ------------------------------------------------------ |
-| [Reserved Keywords](./revserved-keywords/README.md)    |
-| [Operators](./day-02/operators.md)                     |
-| [Day-2 Practice Problem](./day-02/practice_problem.md) |
+| Other Resources                                           |
+| --------------------------------------------------------- |
+| [Reserved Keywords](./revserved-keywords/README.md)       |
+| [Operators](./day-02/operators.md)                        |
+| [Day - 02 Practice Problem](./day-02/practice_problem.md) |
 
 ### How to Use
 
